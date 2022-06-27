@@ -1,0 +1,47 @@
+</html>.output-1 {
+
+    width: 140px;
+
+    height: 140px;
+
+    background-color: red;
+
+}
+
+
+
+.output-2 {
+
+    width: 140px;
+
+    height: 140px;
+
+    background-color: blue;
+
+    position: relative;
+
+    margin-top: -3%;
+
+    margin-left: 4%;
+
+}
+
+
+
+.output-3 {
+
+    width: 140px;
+
+    height: 140px;
+
+    background-color: green;
+
+    position: relative;
+
+    margin-top: -3%;
+
+    margin-left: 7%;
+
+}
+
+
